@@ -1,0 +1,21 @@
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\bin\Debug\net8.0-windows\WinForms login mod.exe
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\bin\Debug\net8.0-windows\WinForms login mod.deps.json
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\bin\Debug\net8.0-windows\WinForms login mod.runtimeconfig.json
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\bin\Debug\net8.0-windows\WinForms login mod.dll
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\bin\Debug\net8.0-windows\WinForms login mod.pdb
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\obj\Debug\net8.0-windows\WinForms login mod.csproj.GenerateResource.cache
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\obj\Debug\net8.0-windows\WinForms login mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\obj\Debug\net8.0-windows\WinForms login mod.AssemblyInfoInputs.cache
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\obj\Debug\net8.0-windows\WinForms login mod.AssemblyInfo.cs
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\obj\Debug\net8.0-windows\WinForms login mod.csproj.CoreCompileInputs.cache
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\obj\Debug\net8.0-windows\WinForms login mod.dll
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\obj\Debug\net8.0-windows\refint\WinForms login mod.dll
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\obj\Debug\net8.0-windows\WinForms login mod.pdb
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\obj\Debug\net8.0-windows\WinForms login mod.genruntimeconfig.cache
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\obj\Debug\net8.0-windows\ref\WinForms login mod.dll
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\obj\Debug\net8.0-windows\WinForms_login_mod.Properties.Resources.resources
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\obj\Debug\net8.0-windows\WinForms_login_mod.AddTaskForm.resources
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\obj\Debug\net8.0-windows\WinForms_login_mod.EditorForm.resources
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\obj\Debug\net8.0-windows\WinForms_login_mod.Lista.resources
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\obj\Debug\net8.0-windows\WinForms_login_mod.Login.resources
+C:\Trabajos de la upn\WinForms login mod\WinForms login mod\obj\Debug\net8.0-windows\WinForms_login_mod.Registro.resources
